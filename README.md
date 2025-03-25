@@ -39,8 +39,8 @@ assets/                <- Visuals (diagrams, architecture drawings)
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/transformers_project.git
-cd transformers_project
+https://github.com/MooseML/transformer-architectures-nlp-pipeline.git
+cd transformer-architectures-nlp-pipeline
 
 # Install dependencies
 pip install -r requirements.txt
